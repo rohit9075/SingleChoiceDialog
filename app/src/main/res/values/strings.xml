@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleChoiceDialog</string>
+
+    <string-array name="shopping_item">
+        <item>Download Image</item>
+        <item>Share Image</item>
+        <item>Share Image link</item>
+    </string-array>
+</resources>
